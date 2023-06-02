@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone! 👋
+
+## My name is Dzmitry and this is my private repository for pet projects.
 
 <!--
 **DzmitryZhybryk/DzmitryZhybryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
