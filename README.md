@@ -1,6 +1,6 @@
 ## Hi everyone! 👋
 
-#### Welcome to my personal repository!
+### Welcome to my personal repository!
 
 ![image](https://github.com/DzmitryZhybryk/DzmitryZhybryk/assets/91751447/afada7d9-a594-4a10-bb10-1e8ce8f5c27b)
 
